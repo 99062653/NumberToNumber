@@ -1,13 +1,6 @@
 #Number2Number
-__    __         ______         __    __ 
-/  \  /  |       /      \       /  \  /  |
-$$  \ $$ |      /$$$$$$  |      $$  \ $$ |
-$$$  \$$ |      $$____$$ |      $$$  \$$ |
-$$$$  $$ |       /    $$/       $$$$  $$ |
-$$ $$ $$ |      /$$$$$$/        $$ $$ $$ |
-$$ |$$$$ |      $$ |_____       $$ |$$$$ |
-$$ | $$$ |      $$       |      $$ | $$$ |
-$$/   $$/       $$$$$$$$/       $$/   $$/ 
+
+Convert Tekst naar Nummers!!! SUPER HANDIG (not)
+
                                           
-                                          
-                                          
+Klein C# projectje om mijn kennis met C# uit te breiden.
