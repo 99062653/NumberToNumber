@@ -1,0 +1,15 @@
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\bin\Debug\net6.0\NumberToNumber.exe
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\bin\Debug\net6.0\NumberToNumber.deps.json
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\bin\Debug\net6.0\NumberToNumber.runtimeconfig.json
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\bin\Debug\net6.0\NumberToNumber.dll
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\bin\Debug\net6.0\ref\NumberToNumber.dll
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\bin\Debug\net6.0\NumberToNumber.pdb
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.csproj.AssemblyReference.cache
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.AssemblyInfoInputs.cache
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.AssemblyInfo.cs
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.dll
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\ref\NumberToNumber.dll
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.pdb
+C:\Users\ricky\Desktop\csharptesting\projects\NumberToNumber\obj\Debug\net6.0\NumberToNumber.genruntimeconfig.cache
